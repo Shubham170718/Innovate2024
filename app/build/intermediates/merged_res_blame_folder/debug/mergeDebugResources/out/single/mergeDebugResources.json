@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_unit_listitem.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/unit_listitem.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable-xhdpi_widget_preview.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable-xhdpi/widget_preview.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_number_pad_view.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/number_pad_view.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_unit_categoryitem.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/unit_categoryitem.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_button_shape.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/button_shape.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/menu_menu_main.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_check_box_white_24dp.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_check_box_white_24dp.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_check_box_outline_blank_white_24dp.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_check_box_outline_blank_white_24dp.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_delete_24.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_delete_24.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_toolbar_category_button.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/toolbar_category_button.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_widget_shape_background.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/widget_shape_background.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/menu_menu_long_press.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/menu/menu_long_press.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_widget_convert_units.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/widget_convert_units.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_edit_24.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_edit_24.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout-land_number_pad_view.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout-land/number_pad_view.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_invert.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_invert.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_convertme.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/convertme.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_widget_setup_activity.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/widget_setup_activity.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_settings_white_raster.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_settings_white_raster.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_launcher_mono.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/launcher_mono.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout-land_convertme.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout-land/convertme.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_button_selector.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/button_selector.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_category_shape.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/category_shape.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_custom_units_activity.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/custom_units_activity.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_selectable_item_background.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/selectable_item_background.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/xml_widget_convert_units.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/xml/widget_convert_units.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_arrow_drop_down_white_24dp.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_arrow_drop_down_white_24dp.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_settings_white_24dp.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_settings_white_24dp.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_custom_unit.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/custom_unit.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/layout_custom_units_add_activity.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/layout/custom_units_add_activity.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_ic_assignment_white_24dp.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/ic_assignment_white_24dp.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_widget_shape_inner.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/widget_shape_inner.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.defianttech.convertme.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-debug-31:/drawable_button_shape_pressed.xml.flat",
+        "source": "com.defianttech.convertme.app-main-33:/drawable/button_shape_pressed.xml"
+    }
+]

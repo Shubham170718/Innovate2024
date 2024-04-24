@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#4080ff</color>
+    <color name="card_background">#666</color>
+    <color name="category_text_background">#2fff</color>
+    <color name="fab_color">#0a6</color>
+    <color name="list_divider">#555</color>
+    <color name="list_item_highlight">#6080c0ff</color>
+    <color name="name_text">#ddd</color>
+    <color name="number_pad_background">#333</color>
+    <color name="number_pad_button">#46a</color>
+    <color name="number_pad_button_pressed">#348</color>
+    <color name="statusBar">#ff203080</color>
+    <color name="toolbar">#ff4050a0</color>
+    <color name="value_text">#f0f0f0</color>
+    <color name="window_background">#444</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="button_margin">4dp</dimen>
+    <dimen name="button_text_size">20sp</dimen>
+    <dimen name="button_width">64dp</dimen>
+    <dimen name="check_box_size">20dp</dimen>
+    <dimen name="corner_radius">3dp</dimen>
+    <dimen name="floating_action_button_margin_bottom">0dp</dimen>
+    <dimen name="floating_action_button_margin_left">0dp</dimen>
+    <dimen name="floating_action_button_margin_right">8dp</dimen>
+    <dimen name="floating_action_button_margin_top">0dp</dimen>
+    <dimen name="units_text_size">16sp</dimen>
+    <string name="about_message">ConvertMe — An easy-to-use unit conversion utility.\n\nCopyright © 2014+ Defiant Technologies, LLC.\nCreated by Dmitry Brant.</string>
+    <string name="add_button">Add</string>
+    <string name="add_new_unit">Add new unit…</string>
+    <string name="configure_widget">Configure widget</string>
+    <string name="copy_row">Copy row</string>
+    <string name="copy_value">Copy value</string>
+    <string name="custom_unit_base">Base unit:</string>
+    <string name="custom_unit_multiplier">Multiplier</string>
+    <string name="custom_unit_multiplier_default">1.0</string>
+    <string name="custom_unit_multiplier_invalid">Invalid multiplier (must be a nonzero decimal number)</string>
+    <string name="custom_unit_name">Name of unit</string>
+    <string name="custom_unit_name_invalid">Invalid name (must be non-empty)</string>
+    <string name="custom_units">Custom units</string>
+    <string name="delete_unit">Delete unit</string>
+    <string name="delete_unit_confirm">Are you sure you want to delete \"%s\"?</string>
+    <string name="delete_unit_dependent">\"%1$s\" cannot be deleted because other units depend on it (%2$s).</string>
+    <string name="done_button">Done</string>
+    <string name="edit_unit">Edit unit</string>
+    <string name="inverse">Inverse</string>
+    <string name="launcher_title">Convert Units</string>
+    <string name="menu_about">About…</string>
+    <string name="menu_clipboard_copied">Copied to clipboard.</string>
+    <string name="nice_try">Nice try!</string>
+    <string name="ok">OK</string>
+    <string name="preview">Preview</string>
+    <string name="show_hide_units">Show/hide units…</string>
+    <string name="str_0">0</string>
+    <string name="str_1">1</string>
+    <string name="str_2">2</string>
+    <string name="str_3">3</string>
+    <string name="str_4">4</string>
+    <string name="str_5">5</string>
+    <string name="str_6">6</string>
+    <string name="str_7">7</string>
+    <string name="str_8">8</string>
+    <string name="str_9">9</string>
+    <string name="str_pad_back">←</string>
+    <string name="str_pad_clear">C</string>
+    <string name="str_pad_negate">±</string>
+    <string name="str_pad_point">.</string>
+    <string name="unit_category">Unit category:</string>
+    <string name="unit_from">Unit to convert from:</string>
+    <string name="unit_increment">Increment amount:</string>
+    <string name="unit_to">Unit to convert to:</string>
+    <string name="widget_title">Convert Units</string>
+    <style name="AppTheme" parent="MyTheme">
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorPrimary">@color/accent</item>
+        <item name="toolbarStyle">@style/Toolbar.ConvertMe</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+    </style>
+    <style name="ButtonTextView">
+        <item name="android:background">@drawable/button_selector</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="android:gravity">center</item>
+        <item name="android:clickable">true</item>
+        <item name="android:elevation" ns1:targetApi="lollipop">4dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+    </style>
+    <style name="MyTheme" parent="Theme.Material3.Dark">
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor" ns1:targetApi="lollipop">@color/statusBar</item>
+    </style>
+    <style name="Toolbar.ConvertMe" parent="@style/Widget.Material3.Toolbar">
+        <item name="android:background">@color/toolbar</item>
+        <item name="navigationIcon">?attr/homeAsUpIndicator</item>
+    </style>
+</resources>

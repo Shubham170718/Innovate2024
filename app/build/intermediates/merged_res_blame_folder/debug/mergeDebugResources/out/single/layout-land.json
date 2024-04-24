@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout-land/number_pad_view.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout-land/number_pad_view.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout-land/convertme.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout-land/convertme.xml"
+    }
+]

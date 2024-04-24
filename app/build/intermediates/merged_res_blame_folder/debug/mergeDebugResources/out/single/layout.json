@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/widget_setup_activity.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/widget_setup_activity.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/toolbar_category_button.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/toolbar_category_button.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/unit_listitem.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/unit_listitem.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/custom_unit.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/custom_unit.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/number_pad_view.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/number_pad_view.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/unit_categoryitem.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/unit_categoryitem.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/convertme.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/convertme.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/custom_units_add_activity.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/custom_units_add_activity.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/custom_units_activity.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/custom_units_activity.xml"
+    },
+    {
+        "merged": "com.defianttech.convertme.app-mergeDebugResources-30:/layout/widget_convert_units.xml",
+        "source": "com.defianttech.convertme.app-main-33:/layout/widget_convert_units.xml"
+    }
+]
